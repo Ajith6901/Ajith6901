@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ajith6901
-- 👀 I’m interested in websites for front-end and back end development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning my btech at vit-ap university
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ajithmvirgo@gmail.com
 
 <!---
