@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajith6901
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning my btech at vit-ap university
+- 🌱 I’m currently pursuing my btech at vit-ap university
 - 📫 How to reach me ajithmvirgo@gmail.com
 
 <!---
